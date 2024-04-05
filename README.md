@@ -1,1 +1,1 @@
-#Este proyecto realiza una app en kotlin que hace de simulacion de chat con la API, https://chat.a46-evangelista.workers.dev/chat, la cual guarda los mensajes anteriores y permite recibir imagenes y textos con la confirmacion de la API. 
+# Este proyecto realiza una app en kotlin que hace de simulacion de chat con la API, https://chat.a46-evangelista.workers.dev/chat, la cual guarda los mensajes anteriores y permite recibir imagenes y textos con la confirmacion de la API. 
